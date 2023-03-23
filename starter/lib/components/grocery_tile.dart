@@ -71,7 +71,6 @@ class GroceryTile extends StatelessWidget {
           ),
         ],
       ),
-      color: Colors.red,
     );
   }
 
